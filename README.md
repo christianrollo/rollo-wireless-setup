@@ -1,17 +1,17 @@
 # rollo-wireless-setup
 
-Community guide for setting up the Rollo Wireless Printer and printing shipping labels with Rollo Ship.
+Community guide for setting up the **Rollo Wireless Label Printer X1040** and printing shipping labels with Rollo Ship.
 
-## Rollo Wireless Printer – First Time Setup Guide
+## Rollo Wireless Thermal Printer X1040 – First Time Setup Guide
 
-Welcome to your new **[Rollo Wireless Printer](https://www.rollo.com/product/rollo-wireless-printer/)** 🎉
-This guide will help you set up your printer for the first time and get started with wireless shipping label printing.
+Welcome to your new **[Rollo Wireless Label Printer X1040](https://www.rollo.com/product/rollo-wireless-printer/)** 🎉
+This guide will help you set up your **Rollo Wireless Thermal Printer X1040** for the first time and get started with wireless shipping label printing.
 
 ---
 
 ## 📦 What You’ll Need
 
-* A **Rollo Wireless Printer**
+* A **Rollo Wireless Label Printer X1040**
 * Rollo labels (inserted face-down from the back)
 * The **Rollo Ship app** (downloadable from the [App Store](https://apps.apple.com/us/app/rollo-print-labels-ship/id1466976675) or [Google Play](https://play.google.com/store/apps/details?id=com.rollo.shipmanager))
 * A Wi-Fi connection
@@ -26,7 +26,7 @@ This guide will help you set up your printer for the first time and get started 
 
 2. **Connect Your Printer**
 
-   * Plug in the power cable and turn on your Rollo printer.
+   * Plug in the power cable and turn on your **Rollo Wireless Thermal Printer X1040**.
    * Feed the labels in from the back (check the arrows to ensure correct orientation).
 
 3. **Pair with Your Phone**
@@ -37,7 +37,7 @@ This guide will help you set up your printer for the first time and get started 
 4. **Test Print**
 
    * Tap **Test Print** in the app.
-   * Your Rollo should print a test label.
+   * Your **Rollo Wireless Label Printer X1040** should print a test label.
 
 ✅ That’s it! Your printer is ready for wireless use.
 
@@ -68,7 +68,7 @@ For more help, visit [Rollo Support](https://support.rollo.com/support/home?_gl=
 
 ## 📚 Additional Resources
 
-* [Rollo Wireless Printer Product Page](https://www.rollo.com/product/rollo-wireless-printer/)
+* [Rollo Wireless Thermal Printer X1040 Product Page](https://www.rollo.com/product/rollo-wireless-printer/)
 * [Rollo’s Free Shipping Platform](https://www.rollo.com/intro-ship/)
 * [Knowledge Base](https://www.rollo.com/intro-print/)
 
