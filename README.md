@@ -1,5 +1,7 @@
 # rollo-wireless-setup
+
 Community guide for setting up the Rollo Wireless Printer and printing shipping labels with Rollo Ship.
+
 ## Rollo Wireless Printer – First Time Setup Guide
 
 Welcome to your new **[Rollo Wireless Printer](https://www.rollo.com/product/rollo-wireless-printer/)** 🎉
@@ -11,14 +13,14 @@ This guide will help you set up your printer for the first time and get started 
 
 * A **Rollo Wireless Printer**
 * Rollo labels (inserted face-down from the back)
-* The **Rollo app** (downloadable from the [App Store](https://apps.apple.com/) or [Google Play](https://play.google.com/))
+* The **Rollo Ship app** (downloadable from the [App Store](https://apps.apple.com/us/app/rollo-print-labels-ship/id1466976675) or [Google Play](https://play.google.com/store/apps/details?id=com.rollo.shipmanager))
 * A Wi-Fi connection
 
 ---
 
 ## ⚡ Quick Setup Steps
 
-1. **Download the Rollo App**
+1. **Download the Rollo Ship App**
 
    * Available for both iOS and Android.
 
@@ -29,7 +31,7 @@ This guide will help you set up your printer for the first time and get started 
 
 3. **Pair with Your Phone**
 
-   * Open the Rollo app — it will automatically discover your printer.
+   * Open the Rollo Ship app — it will automatically discover your printer.
    * Select your Wi-Fi network and enter your password.
 
 4. **Test Print**
@@ -67,7 +69,7 @@ For more help, visit [Rollo Support](https://support.rollo.com/support/home?_gl=
 ## 📚 Additional Resources
 
 * [Rollo Wireless Printer Product Page](https://www.rollo.com/product/rollo-wireless-printer/)
-* [Rollo Ship Free Platform](https://www.ship.rollo.com/)
+* [Rollo’s Free Shipping Platform](https://www.rollo.com/intro-ship/)
 * [Knowledge Base](https://www.rollo.com/intro-print/)
 
 ---
